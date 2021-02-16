@@ -1,7 +1,6 @@
 {
 "name": "CoffeePool",
-"description": "A Tokyo based stake pool offering lower fee staking! 東京発。コーヒーを飲みながら、ゆったりとステーキングを楽しむプールです。",
+"description": "A Tokyo based Coffee-Lover's pool! コーヒー好きが運営する、ゆったりとステーキングを楽しむプールです。",
 "ticker": "COFFE",
-"homepage": "https://www.coffeepool-staking.com",
-"extended": "https://raw.githubusercontent.com/CFPSG/1/main/extendedMeta.json"
+"homepage": "https://www.coffeepool-staking.com"
 }

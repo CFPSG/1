@@ -3,5 +3,5 @@
 "description": "Coffee-Lover's pool based in Tokyo! コーヒー好きが運営する、ゆったりとステーキングを楽しむプールです。",
 "ticker": "COFFE",
 "homepage": "https://www.coffeepool-staking.com",
-"extend": "https://raw.githubusercontent.com/CFPSG/1/main/extendedMeta.json"
+"extended": "https://raw.githubusercontent.com/CFPSG/1/main/extendedMeta.json"
 }
